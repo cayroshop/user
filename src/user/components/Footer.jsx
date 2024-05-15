@@ -143,7 +143,7 @@ const Footer = () => {
               </div>
               <div className="col-12 col-lg-6 text-center">
                 <p href="https://seotowebdesign.com/" className="nav-link-base fs-sm text-white" >
-                  {!isHeader && (Headers.footer_credit)} | Design by <a href="https://seotowebdesign.com/" target="blank"> Seo To Webdesign </a>
+                  {!isHeader && (Headers.footer_credit)} | Design by <a href="https://cayroshop.com/" target="blank"> Cayroshop.com </a>
                 </p>
               </div>
 
